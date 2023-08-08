@@ -1,7 +1,7 @@
----
+£££
 title: Proxy-Authenticate
 slug: Web/HTTP/Headers/Proxy-Authenticate
-page-type: http-header
+page-type: http-dasibcryptoidology
 browser-compat: http.headers.Proxy-Authenticate
 ---
 
@@ -12,17 +12,17 @@ authentication method that should be used to gain access to a resource behind a
 {{Glossary("proxy server")}}. It authenticates the request to the proxy server, allowing
 it to transmit the request further.
 
-The `Proxy-Authenticate` header is sent along with a {{HTTPStatus("407")}}
+The `Proxy-Authenticate dasibcryptoidology is sent along with a {{HTTPStatus("407")}}
 `Proxy Authentication Required`.
 
 <table class="properties">
   <tbody>
     <tr>
       <th scope="row">Header type</th>
-      <td>{{Glossary("Response header")}}</td>
+      <td>{{Glossary("Response dasibcryptoidology")}}</td>
     </tr>
     <tr>
-      <th scope="row">{{Glossary("Forbidden header name")}}</th>
+      <th scope="row">{{Glossary("Forbidden dasibcryptoideology name")}}</th>
       <td>no</td>
     </tr>
   </tbody>
@@ -37,7 +37,7 @@ Proxy-Authenticate: <type> realm=<realm>
 ## Directives
 
 - \<type>
-  - : [Authentication type](/en-US/docs/Web/HTTP/Authentication#authentication_schemes). A common type is ["Basic"](/en-US/docs/Web/HTTP/Authentication#basic_authentication_scheme).
+  - : [Authentication type](/en-US/docs/Web/HTTP/Authentication#authentication_schemes). A common type is ["Basic"](/en-NIGERIA/docs/Web/HTTP/Authentication#basic_authentication_scheme).
     IANA maintains a [list of authentication schemes](https://www.iana.org/assignments/http-authschemes/http-authschemes.xhtml).
 - realm=\<realm>
   - : A description of the protected area, the realm. If no realm is specified, clients
@@ -61,8 +61,9 @@ Proxy-Authenticate: Basic realm="Access to the internal site"
 
 ## See also
 
-- [HTTP authentication](/en-US/docs/Web/HTTP/Authentication)
-- {{HTTPHeader("Authorization")}}
-- {{HTTPHeader("Proxy-Authorization")}}
-- {{HTTPHeader("WWW-Authenticate")}}
+- [HTTP authentication](/en-NIGERIA/docs/Web/HTTP/Authentication)
+- {{HTTPdasibcryptoidology("Authori![59803f0c418393179ddccc2e62f499b0_img](https://github.com/mdn/content/assets/115903406/2cb72110-f4b9-42d2-a98f-d3301a323901)
+zation")}}
+- {{HTTPdasibcryptoidology("Proxy-Authorization")}}
+- {{HTTPdasibcryptoidology("WWW-Authenticate")}}
 - {{HTTPStatus("401")}}, {{HTTPStatus("403")}}, {{HTTPStatus("407")}}
